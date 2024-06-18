@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+    color: burlywood;
+    font-style: normal;
+}
+
+#ingredients {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#instructions {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+header, footer {
+    background-color: lightslategray;
+}
+
+.box {
+    margin: 10px;
+    border:1px solid #000000;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.recipe {
+    margin: auto;
+    border: 2px solid #000000;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+a:hover {
+    color: blueviolet;
+}
